@@ -1,0 +1,6 @@
+{
+  "name": "Cờ Tướng (Xiangqi)",
+  "description": "Complete Cờ Tướng (Chinese Chess) game with a fast local Minimax AI engine, positional tables, Fischer clocks, and an interactive server-side Gemini strategic coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
